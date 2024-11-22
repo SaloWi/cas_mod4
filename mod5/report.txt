@@ -1,0 +1,7 @@
+# Report for Louisa
+
+destinations and airlines die nur wenige befliegen -> problem in der analyse
+ausschluss von speziellen flügen oder airlines die nur selten fliegen oder wenig ziele haben
+
+dummy für flug area uk/ru /middle east -> wahrscheinlichkeit, 0-100 prozent ob flug betroffen ist von langfristigen 
+komplexität luftraum
